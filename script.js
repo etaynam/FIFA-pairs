@@ -64,11 +64,12 @@ function updatePairsList(pairs) {
     list.innerHTML = '';
     pairs.forEach(pair => {
         let li = document.createElement('li');
-        li.textContent = `${pair[0]} ו${pair[1]}`;
-        list.appendChild(li)
-        MakePairs.innerText = 'ערבב שוב';
+        let group = groups[Math.floor(Math.random() * groups.length)];
+        li.innerHTML = `${pair[0]} ו-${pair[1]} - <b>${group.groupName}</b> <img src='${group.groupSymbol}' alt='סמל' style='height: 30px;'>`;
+        list.appendChild(li);
     });
 }
+
 
 function resetNames() {
     names = [];

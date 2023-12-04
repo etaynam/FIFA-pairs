@@ -1,6 +1,17 @@
 let names = [];
 let MakePairs = document.getElementById('MakePairs');
 
+let groups = [];
+
+// טעינת הנתונים מהקובץ JSON
+fetch('groups.json')
+    .then(response => response.json())
+    .then(data => groups = data)
+    .catch(error => console.error('Error loading groups:', error));
+
+
+
+
 function addName() {
     let PlayersSection = document.getElementById('PlayersSection').style.display = 'block';
     let nameInput = document.getElementById('nameInput');
@@ -85,3 +96,5 @@ function confirmEdit() {
     }
     closePopup();
 }
+
+

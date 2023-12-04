@@ -1,15 +1,76 @@
 [
     {
-        "groupName": "קבוצה א'",
-        "groupSymbol": "symbol1.png"
+        "groupName": "בורנמות",
+        "groupSymbol": "/teams/Premier League/Bournemouth.png"
     },
     {
-        "groupName": "קבוצה ב'",
-        "groupSymbol": "symbol2.png"
+        "groupName": "ארסנל",
+        "groupSymbol": "/teams/Premier League/Arsneal.png"
     },
     {
-        "groupName": "קבוצה ג'",
-        "groupSymbol": "symbol3.png"
+        "groupName": "אסטון וילה",
+        "groupSymbol": "/teams/Premier League/Aston Villa.png"
+    },
+    {
+        "groupName": "צ׳לסי",
+        "groupSymbol": "/teams/Premier League/Chelsea.png"
+    },
+    {
+        "groupName": "מנצ׳סטר סיטי",
+        "groupSymbol": "/teams/Premier League/City.png"
+    },
+    {
+        "groupName": " קריסטל פאלאס",
+        "groupSymbol": "/teams/Premier League/CrystalPalace.png"
+    },
+    {
+        "groupName": "אברטון",
+        "groupSymbol": "/teams/Premier League/Everton.png"
+    },
+    {
+        "groupName": "לסטר",
+        "groupSymbol": "/teams/Premier League/Leceter.png"
+    },
+    {
+        "groupName": "ליברפול",
+        "groupSymbol": "/teams/Premier League/Liverpool.png"
+    },
+    {
+        "groupName": "ניוקאסל",
+        "groupSymbol": "/teams/Premier League/Newcastle.png"
+    },
+    {
+        "groupName": "נוריץ׳",
+        "groupSymbol": "/teams/Premier League/Norwich City.png"
+    },
+    {
+        "groupName": "מנצ׳טסר יונייטד",
+        "groupSymbol": "/teams/Premier League/United.png"
+    },
+      {
+        "groupName": " סטוק סיטי",
+        "groupSymbol": "/teams/Premier League/stockcity.png"
+    },
+    {
+        "groupName": "טוטנאהם",
+        "groupSymbol": "/teams/Premier League/Tottenham.png"
+    },
+    {
+        "groupName": "ווטפורד",
+        "groupSymbol": "/teams/Premier League/watford.png"
+    },
+    {
+        "groupName": "ווסט ברומיץ׳",
+        "groupSymbol": "/teams/Premier League/West Bromwich.png"
+    },
+    {
+        "groupName": "ווסטאהם",
+        "groupSymbol": "/teams/Premier League/westham.png"
     }
-  
+
+
+
+    
+
+    
 ]

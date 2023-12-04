@@ -10,7 +10,7 @@
 
 <header>
     <div class="header">
-        <a href="#default" class="logo">FIFA PAIRS</a>
+        <img src="images/Logo.png" alt="Logo" class="logo">
         <div class="header-right">
             <a href="#contact">יצירת קשר</a>
             <a href="#about">אודות</a>
@@ -31,7 +31,6 @@
                       <div id="PlayersSection">
 
 <div id="displayNamesList">
-    <h3>שמות השחקנים שנוספו</h3>
     <ul id="nameList"></ul>
 </div>
 <div id="ResetAndMakeBtebs">
@@ -39,7 +38,7 @@
     <button class="ActionBtn" onclick="resetNames()">איפוס רשימה</button>
     </div>
 
-    <h3>זוגות:</h3>
+    <h3></h3>
     <ul id="pairsList"></ul>
                         </div>
 
@@ -50,10 +49,13 @@
         <div class="popup-content">
             <span class="closeBtn" onclick="closePopup()">&times;</span>
             <input type="text" id="editNameInput" placeholder="ערוך שם">
-            <button onclick="confirmEdit()">תיקון</button>
+            <button id="TikunBtn" onclick="confirmEdit()">תיקון</button>
         </div>
     </div>
     
+    <footer>
+        <p>פותח ע״י איתי נעמן | V1.0</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>

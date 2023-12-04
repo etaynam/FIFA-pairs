@@ -13,7 +13,7 @@ fetch('groups.json')
 
 
 function addName() {
-    let PlayersSection = document.getElementById('PlayersSection').style.display = 'block';
+    let PlayersSection = document.getElementById('PlayersSection').style.display = 'flex';
     let nameInput = document.getElementById('nameInput');
     let name = nameInput.value;
     if (name) {
@@ -66,7 +66,7 @@ function updatePairsList(pairs) {
         let li = document.createElement('li');
         li.classList.add("list-group-item");
         let group = groups[Math.floor(Math.random() * groups.length)];
-        li.innerHTML = `${pair[0]} ו${pair[1]}<b>${group.groupName}</b> <img src='${group.groupSymbol}' alt='סמל' style='height: 30px;'>`;
+        li.innerHTML = `${pair[0]} ו${pair[1]}<b>${group.groupName}</b> <img src='${group.groupSymbol}' class="teamLogo" alt='סמל' style='height: 50px; width: 50px;'>`;
         list.appendChild(li);
     });
 }
@@ -76,6 +76,7 @@ function resetNames() {
     names = [];
     updateNameList();
     document.getElementById('pairsList').innerHTML = '';
+    let PlayersSection = document.getElementById('PlayersSection').style.display = 'none';
 }
 
 let currentEditIndex = -1;

@@ -32,10 +32,11 @@ HEADER
     border-radius: 4px;
   }
   
-  .header a.logo {
-    font-size: 25px;
-    font-weight: bold;
-  }
+  .logo {
+    width: 12vw;
+    position: fixed;
+    left: 29px;
+}
   
   .header a:hover {
     background-color: #ddd;
@@ -71,6 +72,9 @@ HEADER
 
 #PlayersSection {
     display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 h2 {
     font-family: 'Arimo', sans-serif;
@@ -100,6 +104,13 @@ button {
     cursor: pointer;
     background-color: #4CAF50;
     color: white;
+}
+#TikunBtn {
+    background-color: #1c90ff;
+    color: white;
+    border-radius: 0px;
+    padding: 10px 30px;
+    margin: 0;
 }
 .ActionBtn {
     background-color: rgb(255, 39, 39);
@@ -147,7 +158,7 @@ ul {
 }
 li {
     margin: 5px 0;
-    padding: 5px 10px 5px;
+    padding: 10px 15px 10px 15px;
     background-color: #fff;
     border-radius: 5px;
     margin: 2px;
@@ -162,6 +173,18 @@ li.list-group-item {
     align-content: center;
     padding: 27px;
     border-radius: 17px;
+    align-items: center;
+    min-width: 120px;
+}
+
+div#displayNamesList {
+    display: flex;
+    justify-content: center;
+    width: 700px;
+}
+
+.teamLogo {
+margin: 10px;
 }
 
 span.material-symbols-outlined {
@@ -169,11 +192,12 @@ span.material-symbols-outlined {
 }
 
 #editNameInput {
-    width: calc(100% - 40px);
-    max-width: 300px;
+    width: calc(100% - 20px);
+    max-width: 568px;
     margin: 0px;
     padding: 20px;
     border: 1px solid #ccc;
+    border-radius: 0px;
 
 }
 
@@ -207,14 +231,19 @@ span.material-symbols-outlined {
     display: flex;
 }
 .closeBtn {
-    color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff;
 }
 .closeBtn:hover,
 .closeBtn:focus {
-    color: black;
+    color: rgb(255, 133, 133);
     text-decoration: none;
     cursor: pointer;
 }
@@ -222,4 +251,15 @@ span.material-symbols-outlined {
 ul#pairsList {
     display: flex;
     justify-content: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 97%;
+    padding: 10px;
+    font-size: 0.8rem;
+    color: grey;
 }

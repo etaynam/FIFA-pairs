@@ -155,6 +155,15 @@ li {
 
 }
 
+li.list-group-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 27px;
+    border-radius: 17px;
+}
+
 span.material-symbols-outlined {
     font-size: 30px;
 }

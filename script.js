@@ -64,8 +64,9 @@ function updatePairsList(pairs) {
     list.innerHTML = '';
     pairs.forEach(pair => {
         let li = document.createElement('li');
+        li.classList.add("list-group-item");
         let group = groups[Math.floor(Math.random() * groups.length)];
-        li.innerHTML = `${pair[0]} ו-${pair[1]} - <b>${group.groupName}</b> <img src='${group.groupSymbol}' alt='סמל' style='height: 30px;'>`;
+        li.innerHTML = `${pair[0]} ו${pair[1]}<b>${group.groupName}</b> <img src='${group.groupSymbol}' alt='סמל' style='height: 30px;'>`;
         list.appendChild(li);
     });
 }

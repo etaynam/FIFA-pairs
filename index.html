@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+    <title>רשימת שמות ועירבוב</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+<header>
+    <div class="header">
+        <a href="#default" class="logo">FIFA PAIRS</a>
+        <div class="header-right">
+            <a href="#contact">יצירת קשר</a>
+            <a href="#about">אודות</a>
+          <a class="active" href="#home">ראשי</a>
+        </div>
+      </div>
+</header>
+
+
+                <div id="mainSection">
+    <input type="text" id="nameInput" placeholder=" הכנס שם שחקן...">
+    <button id="addName" onclick="addName()"><span class="material-symbols-outlined">
+        person_add</span></button>
+                </div>
+
+
+
+                      <div id="PlayersSection">
+
+<div id="displayNamesList">
+    <h3>שמות השחקנים שנוספו</h3>
+    <ul id="nameList"></ul>
+</div>
+<div id="ResetAndMakeBtebs">
+    <button id="MakePairs" class="ActionBtn" onclick="pairNames()">ערבב זוגות</button>
+    <button class="ActionBtn" onclick="resetNames()">איפוס רשימה</button>
+    </div>
+
+    <h3>זוגות:</h3>
+    <ul id="pairsList"></ul>
+                        </div>
+
+
+
+    <!-- פופ-אפ לעריכת שם -->
+    <div id="editPopup" class="popup">
+        <div class="popup-content">
+            <span class="closeBtn" onclick="closePopup()">&times;</span>
+            <input type="text" id="editNameInput" placeholder="ערוך שם">
+            <button onclick="confirmEdit()">תיקון</button>
+        </div>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -44,19 +44,48 @@ function updateNameList() {
 }
 
 function pairNames() {
-    let pairs = [];
-    let shuffledNames = [...names];
-    shuffledNames.sort(() => 0.5 - Math.random());
 
-    while (shuffledNames.length >= 2) {
-        pairs.push([shuffledNames.pop(), shuffledNames.pop()]);
+    if (names.length < 3) {
+
+        setTimeout(() => {
+            const box = document.getElementById('box').style.display = "flex";
+          
+            // 👇️ removes element from DOM
+            box.style.display = 'none';
+          
+            // 👇️ hides element (still takes up space on page)
+            // box.style.visibility = 'hidden';
+          },0); // 👈️ time in milliseconds
+
+          setTimeout(() => {
+            const box = document.getElementById('box').style.display = "none";
+          
+            // 👇️ removes element from DOM
+            box.style.display = 'none';
+          
+            // 👇️ hides element (still takes up space on page)
+            // box.style.visibility = 'hidden';
+          },3000); // 👈️ time in milliseconds
+         
+    } else {
+        const box = document.getElementById('box').style.display = "none";
+        MakePairs.innerText = "ערבב שוב"
+        let pairs = [];
+        let shuffledNames = [...names];
+        shuffledNames.sort(() => 0.5 - Math.random());
+    
+        while (shuffledNames.length >= 2) {
+            pairs.push([shuffledNames.pop(), shuffledNames.pop()]);
+        }
+    
+        if (shuffledNames.length) {
+            pairs.push([shuffledNames.pop(), 'מישהו מהמפסידים']);
+        }
+    
+        updatePairsList(pairs);
     }
+    
 
-    if (shuffledNames.length) {
-        pairs.push([shuffledNames.pop(), 'מישהו מהמפסידים']);
-    }
-
-    updatePairsList(pairs);
 }
 
 function updatePairsList(pairs) {
@@ -99,5 +128,6 @@ function confirmEdit() {
     }
     closePopup();
 }
+
 
 

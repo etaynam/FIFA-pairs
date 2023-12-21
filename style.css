@@ -1,12 +1,11 @@
+
+    
+ 
+
 * {
     font-family: 'Arimo', sans-serif;
 }
-body {
-    font-family: 'Arimo', sans-serif;
-    text-align: center;
-    background-color: #f0f0f0;
-    margin: 0;
-}
+
 
 
 /*
@@ -33,7 +32,7 @@ HEADER
   }
   
   .logo {
-    width: 12vw;
+    width: 50vw;
     position: fixed;
     left: 29px;
 }
@@ -52,17 +51,7 @@ HEADER
     float: right;
   }
   
-  @media screen and (max-width: 500px) {
-    .header a {
-      float: none;
-      display: flex;
-      text-align: left;
-    }
-    
-    .header-right {
-      float: none;
-    }
-  }
+
 
   /*
 עיצוב החלק העליון של האתר
@@ -140,6 +129,7 @@ span#EditPlayerIcon {
     border: none;
     border-radius: 5px 0px 0px 5px;
     cursor: pointer;
+
 }
 
 #addName:hover {
@@ -188,7 +178,7 @@ margin: 10px;
 }
 
 span.material-symbols-outlined {
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 #editNameInput {
@@ -207,6 +197,11 @@ span.material-symbols-outlined {
     margin: 0px;
     padding: 20px;  
     border-radius: 0px;;
+    
+}
+
+input#nameInput {
+    font-size: 1rem;
 }
 
 /* סגנונות עבור פופ-אפ */
@@ -281,3 +276,30 @@ div#box {
     display: none;
     justify-content: center;
 }
+
+body {
+    background-color: blue; /* This will be applied by default */
+}
+
+@media only screen and (max-width: 1400px) {
+    body {
+        background-color: #eeeeee; /* This will be applied on screens 300px wide or smaller */
+    }
+    input#nameInput {
+        font-size: 3rem;
+    }
+
+    #addName {
+    
+        padding: 45px;
+    }
+
+    span.material-symbols-outlined {
+        font-size: 4rem;
+    }
+
+
+}
+
+
+

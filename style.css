@@ -303,6 +303,21 @@ body {
         font-size: 3rem;
     }
 
+    li {
+        font-size: 3rem;
+    }
+
+    span#EditPlayerIcon {
+        font-size: 1.7rem;
+        padding: 12px;
+    }
+
+    div#displayNamesList {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 100%;
+    }
+
 }
 
     #addName {

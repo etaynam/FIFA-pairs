@@ -4,7 +4,7 @@
             "id": 33,
             "name": "Manchester United",
             "code": "MUN",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1878,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/33.png"
@@ -24,7 +24,7 @@
             "id": 34,
             "name": "Newcastle",
             "code": "NEW",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1892,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/34.png"
@@ -44,7 +44,7 @@
             "id": 35,
             "name": "Bournemouth",
             "code": "BOU",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1899,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/35.png"
@@ -64,7 +64,7 @@
             "id": 36,
             "name": "Fulham",
             "code": "FUL",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1879,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/36.png"
@@ -84,7 +84,7 @@
             "id": 39,
             "name": "Wolves",
             "code": "WOL",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1877,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/39.png"
@@ -104,7 +104,7 @@
             "id": 40,
             "name": "Liverpool",
             "code": "LIV",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1892,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/40.png"
@@ -124,7 +124,7 @@
             "id": 42,
             "name": "Arsenal",
             "code": "ARS",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1886,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/42.png"
@@ -144,7 +144,7 @@
             "id": 44,
             "name": "Burnley",
             "code": "BUR",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1882,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/44.png"
@@ -164,7 +164,7 @@
             "id": 45,
             "name": "Everton",
             "code": "EVE",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1878,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/45.png"
@@ -184,7 +184,7 @@
             "id": 47,
             "name": "Tottenham",
             "code": "TOT",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1882,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/47.png"
@@ -204,7 +204,7 @@
             "id": 48,
             "name": "West Ham",
             "code": "WES",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1895,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/48.png"
@@ -224,7 +224,7 @@
             "id": 49,
             "name": "Chelsea",
             "code": "CHE",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1905,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/49.png"
@@ -244,7 +244,7 @@
             "id": 50,
             "name": "Manchester City",
             "code": "MAC",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1880,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/50.png"
@@ -264,7 +264,7 @@
             "id": 51,
             "name": "Brighton",
             "code": "BRI",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1901,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/51.png"
@@ -284,7 +284,7 @@
             "id": 52,
             "name": "Crystal Palace",
             "code": "CRY",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1905,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/52.png"
@@ -304,7 +304,7 @@
             "id": 55,
             "name": "Brentford",
             "code": "BRE",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1889,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/55.png"
@@ -324,7 +324,7 @@
             "id": 62,
             "name": "Sheffield Utd",
             "code": "SHE",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1889,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/62.png"
@@ -344,7 +344,7 @@
             "id": 65,
             "name": "Nottingham Forest",
             "code": "NOT",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1865,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/65.png"
@@ -364,7 +364,7 @@
             "id": 66,
             "name": "Aston Villa",
             "code": "AST",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1874,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/66.png"
@@ -384,7 +384,7 @@
             "id": 1359,
             "name": "Luton",
             "code": "LUT",
-            "country": "England",
+            "country": "אנגליה",
             "founded": 1885,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/1359.png"
@@ -410,7 +410,7 @@
             "id": 529,
             "name": "Barcelona",
             "code": "BAR",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1899,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/529.png"
@@ -430,7 +430,7 @@
             "id": 530,
             "name": "Atletico Madrid",
             "code": "MAD",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1903,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/530.png"
@@ -450,7 +450,7 @@
             "id": 531,
             "name": "Athletic Club",
             "code": "BIL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1898,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/531.png"
@@ -470,7 +470,7 @@
             "id": 532,
             "name": "Valencia",
             "code": "VAL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1919,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/532.png"
@@ -490,7 +490,7 @@
             "id": 533,
             "name": "Villarreal",
             "code": "VIL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1923,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/533.png"
@@ -510,7 +510,7 @@
             "id": 534,
             "name": "Las Palmas",
             "code": "PAL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1949,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/534.png"
@@ -530,7 +530,7 @@
             "id": 536,
             "name": "Sevilla",
             "code": "SEV",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1890,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/536.png"
@@ -550,7 +550,7 @@
             "id": 538,
             "name": "Celta Vigo",
             "code": "CEL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1923,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/538.png"
@@ -570,7 +570,7 @@
             "id": 541,
             "name": "Real Madrid",
             "code": "REA",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1902,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/541.png"
@@ -590,7 +590,7 @@
             "id": 542,
             "name": "Alaves",
             "code": "ALA",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1921,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/542.png"
@@ -610,7 +610,7 @@
             "id": 543,
             "name": "Real Betis",
             "code": "BET",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1907,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/543.png"
@@ -630,7 +630,7 @@
             "id": 546,
             "name": "Getafe",
             "code": "GET",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1983,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/546.png"
@@ -650,7 +650,7 @@
             "id": 547,
             "name": "Girona",
             "code": "GIR",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1930,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/547.png"
@@ -670,7 +670,7 @@
             "id": 548,
             "name": "Real Sociedad",
             "code": "RSO",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1909,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/548.png"
@@ -690,7 +690,7 @@
             "id": 715,
             "name": "Granada CF",
             "code": "GRA",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1931,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/715.png"
@@ -710,7 +710,7 @@
             "id": 723,
             "name": "Almeria",
             "code": "ALM",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1989,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/723.png"
@@ -730,7 +730,7 @@
             "id": 724,
             "name": "Cadiz",
             "code": "CAD",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1910,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/724.png"
@@ -750,7 +750,7 @@
             "id": 727,
             "name": "Osasuna",
             "code": "OSA",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1920,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/727.png"
@@ -770,7 +770,7 @@
             "id": 728,
             "name": "Rayo Vallecano",
             "code": "RAY",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1924,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/728.png"
@@ -789,7 +789,7 @@
             "id": 798,
             "name": "Mallorca",
             "code": "MAL",
-            "country": "Spain",
+            "country": "ספרד",
             "founded": 1916,
             "national": false,
             "logo": "https://media.api-sports.io/football/teams/798.png"
@@ -820,7 +820,7 @@
                 "id": 79,
                 "name": "Lille",
                 "code": "LIL",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1944,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/79.png"
@@ -840,7 +840,7 @@
                 "id": 80,
                 "name": "Lyon",
                 "code": "LYO",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1950,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/80.png"
@@ -860,7 +860,7 @@
                 "id": 81,
                 "name": "Marseille",
                 "code": "MAR",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1899,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/81.png"
@@ -880,7 +880,7 @@
                 "id": 82,
                 "name": "Montpellier",
                 "code": "MON",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1974,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/82.png"
@@ -900,7 +900,7 @@
                 "id": 83,
                 "name": "Nantes",
                 "code": "NAN",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1943,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/83.png"
@@ -920,7 +920,7 @@
                 "id": 84,
                 "name": "Nice",
                 "code": "NIC",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1904,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/84.png"
@@ -940,7 +940,7 @@
                 "id": 85,
                 "name": "Paris Saint Germain",
                 "code": "PAR",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1970,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/85.png"
@@ -960,7 +960,7 @@
                 "id": 91,
                 "name": "Monaco",
                 "code": "MON",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1919,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/91.png"
@@ -980,7 +980,7 @@
                 "id": 93,
                 "name": "Reims",
                 "code": "REI",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1909,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/93.png"
@@ -1000,7 +1000,7 @@
                 "id": 94,
                 "name": "Rennes",
                 "code": "REN",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1901,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/94.png"
@@ -1020,7 +1020,7 @@
                 "id": 95,
                 "name": "Strasbourg",
                 "code": "STR",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1906,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/95.png"
@@ -1040,7 +1040,7 @@
                 "id": 96,
                 "name": "Toulouse",
                 "code": "TOU",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1937,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/96.png"
@@ -1060,7 +1060,7 @@
                 "id": 97,
                 "name": "Lorient",
                 "code": "LOR",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1926,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/97.png"
@@ -1080,7 +1080,7 @@
                 "id": 99,
                 "name": "Clermont Foot",
                 "code": "CLE",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1990,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/99.png"
@@ -1100,7 +1100,7 @@
                 "id": 106,
                 "name": "Stade Brestois 29",
                 "code": "BRE",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1950,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/106.png"
@@ -1120,7 +1120,7 @@
                 "id": 111,
                 "name": "LE Havre",
                 "code": "HAV",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1872,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/111.png"
@@ -1140,7 +1140,7 @@
                 "id": 112,
                 "name": "Metz",
                 "code": "MET",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1932,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/112.png"
@@ -1160,7 +1160,7 @@
                 "id": 116,
                 "name": "Lens",
                 "code": "LEN",
-                "country": "France",
+                "country": "צרפת",
                 "founded": 1906,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/116.png"
@@ -1184,7 +1184,7 @@
                 "id": 157,
                 "name": "Bayern Munich",
                 "code": "BAY",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1900,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/157.png"
@@ -1204,7 +1204,7 @@
                 "id": 160,
                 "name": "SC Freiburg",
                 "code": "FRE",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1904,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/160.png"
@@ -1224,7 +1224,7 @@
                 "id": 161,
                 "name": "VfL Wolfsburg",
                 "code": "WOL",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1945,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/161.png"
@@ -1244,7 +1244,7 @@
                 "id": 162,
                 "name": "Werder Bremen",
                 "code": "WER",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1899,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/162.png"
@@ -1264,7 +1264,7 @@
                 "id": 163,
                 "name": "Borussia Monchengladbach",
                 "code": "MOE",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1900,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/163.png"
@@ -1284,7 +1284,7 @@
                 "id": 164,
                 "name": "FSV Mainz 05",
                 "code": "MAI",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1905,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/164.png"
@@ -1304,7 +1304,7 @@
                 "id": 165,
                 "name": "Borussia Dortmund",
                 "code": "DOR",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1909,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/165.png"
@@ -1324,7 +1324,7 @@
                 "id": 167,
                 "name": "1899 Hoffenheim",
                 "code": "HOF",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1899,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/167.png"
@@ -1344,7 +1344,7 @@
                 "id": 168,
                 "name": "Bayer Leverkusen",
                 "code": "BAY",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1904,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/168.png"
@@ -1364,7 +1364,7 @@
                 "id": 169,
                 "name": "Eintracht Frankfurt",
                 "code": "EIN",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1899,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/169.png"
@@ -1384,7 +1384,7 @@
                 "id": 170,
                 "name": "FC Augsburg",
                 "code": "AUG",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1907,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/170.png"
@@ -1404,7 +1404,7 @@
                 "id": 172,
                 "name": "VfB Stuttgart",
                 "code": "STU",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1893,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/172.png"
@@ -1424,7 +1424,7 @@
                 "id": 173,
                 "name": "RB Leipzig",
                 "code": "LEI",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 2009,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/173.png"
@@ -1444,7 +1444,7 @@
                 "id": 176,
                 "name": "Vfl Bochum",
                 "code": "BOC",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1848,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/176.png"
@@ -1464,7 +1464,7 @@
                 "id": 180,
                 "name": "FC Heidenheim",
                 "code": "HEI",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1946,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/180.png"
@@ -1484,7 +1484,7 @@
                 "id": 181,
                 "name": "SV Darmstadt 98",
                 "code": "DAR",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1898,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/181.png"
@@ -1504,7 +1504,7 @@
                 "id": 182,
                 "name": "Union Berlin",
                 "code": "UNI",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1966,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/182.png"
@@ -1524,7 +1524,7 @@
                 "id": 192,
                 "name": "1.FC Köln",
                 "code": "KOL",
-                "country": "Germany",
+                "country": "גרמניה",
                 "founded": 1948,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/192.png"
@@ -1544,7 +1544,7 @@
                 "id": 487,
                 "name": "Lazio",
                 "code": "LAZ",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1900,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/487.png"
@@ -1564,7 +1564,7 @@
                 "id": 488,
                 "name": "Sassuolo",
                 "code": "SAS",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1922,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/488.png"
@@ -1584,7 +1584,7 @@
                 "id": 489,
                 "name": "AC Milan",
                 "code": "MIL",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1899,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/489.png"
@@ -1604,7 +1604,7 @@
                 "id": 490,
                 "name": "Cagliari",
                 "code": "CAG",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1920,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/490.png"
@@ -1624,7 +1624,7 @@
                 "id": 492,
                 "name": "Napoli",
                 "code": "NAP",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1904,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/492.png"
@@ -1644,7 +1644,7 @@
                 "id": 494,
                 "name": "Udinese",
                 "code": "UDI",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1896,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/494.png"
@@ -1664,7 +1664,7 @@
                 "id": 495,
                 "name": "Genoa",
                 "code": "GEN",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1893,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/495.png"
@@ -1684,7 +1684,7 @@
                 "id": 496,
                 "name": "Juventus",
                 "code": "JUV",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1897,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/496.png"
@@ -1704,7 +1704,7 @@
                 "id": 497,
                 "name": "AS Roma",
                 "code": "ROM",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1927,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/497.png"
@@ -1724,7 +1724,7 @@
                 "id": 499,
                 "name": "Atalanta",
                 "code": "ATA",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1907,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/499.png"
@@ -1744,7 +1744,7 @@
                 "id": 500,
                 "name": "Bologna",
                 "code": "BOL",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1909,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/500.png"
@@ -1764,7 +1764,7 @@
                 "id": 502,
                 "name": "Fiorentina",
                 "code": "FIO",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1926,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/502.png"
@@ -1784,7 +1784,7 @@
                 "id": 503,
                 "name": "Torino",
                 "code": "TOR",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1906,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/503.png"
@@ -1804,7 +1804,7 @@
                 "id": 504,
                 "name": "Verona",
                 "code": "VER",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1903,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/504.png"
@@ -1824,7 +1824,7 @@
                 "id": 505,
                 "name": "Inter",
                 "code": "INT",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1908,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/505.png"
@@ -1844,7 +1844,7 @@
                 "id": 511,
                 "name": "Empoli",
                 "code": "EMP",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1920,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/511.png"
@@ -1864,7 +1864,7 @@
                 "id": 512,
                 "name": "Frosinone",
                 "code": "FRO",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1928,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/512.png"
@@ -1884,7 +1884,7 @@
                 "id": 514,
                 "name": "Salernitana",
                 "code": "SAL",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 2011,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/514.png"
@@ -1904,7 +1904,7 @@
                 "id": 867,
                 "name": "Lecce",
                 "code": "LEC",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1908,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/867.png"
@@ -1924,7 +1924,7 @@
                 "id": 1579,
                 "name": "Monza",
                 "code": "MON",
-                "country": "Italy",
+                "country": "איטליה",
                 "founded": 1912,
                 "national": false,
                 "logo": "https://media.api-sports.io/football/teams/1579.png"

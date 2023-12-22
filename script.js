@@ -79,7 +79,7 @@ function pairNames() {
         }
     
         if (shuffledNames.length) {
-            pairs.push([shuffledNames.pop(), 'מישהו מהמפסידים']);
+            pairs.push([shuffledNames.pop(), 'המפסיד']);
         }
     
         updatePairsList(pairs);
@@ -95,7 +95,7 @@ function updatePairsList(pairs) {
         let li = document.createElement('li');
         li.classList.add("list-group-item");
         let group = groups[Math.floor(Math.random() * groups.length)];
-        li.innerHTML = `${pair[0]} ו${pair[1]}<b>${group.team.name}</b> <h6>${group.team.country.toUpperCase()}</h6> <img src='${group.team.logo}' class="teamLogo" alt='סמל' style='height: 50px; width: 50px;'>`;
+        li.innerHTML = `${pair[0]} ו${pair[1]}<b>${group.team.name}</b> <h6>${group.team.country.toUpperCase()}</h6> <img src='${group.team.logo}' class="teamLogo" alt='סמל' style='height: 100px; width: 100px;'>`;
         list.appendChild(li);
     });
 }

@@ -76,6 +76,9 @@ h3 {
     font-weight: 100;
     color: #565656;
 }
+h6 {
+    margin: 0;
+}
 
 div#mainSection {
     margin: 0;
@@ -244,8 +247,8 @@ input#nameInput {
 }
 
 ul#pairsList {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 
 footer {
@@ -287,7 +290,20 @@ body {
     }
     input#nameInput {
         font-size: 3rem;
+        outline: none !important;  
     }
+
+    div#ResetAndMakeBtebs {
+        position: absolute;
+        bottom: 20px;
+    }
+
+    .ActionBtn {
+        padding: 20px 40px;
+        font-size: 2rem;
+    }
+
+}
 
     #addName {
     
@@ -298,8 +314,11 @@ body {
         font-size: 4rem;
     }
 
+        
 
-}
+
+
+
 
 
 

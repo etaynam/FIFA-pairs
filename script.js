@@ -7,6 +7,7 @@ let groups = [];
 function timerCounter() {
 
     console.log("timerCounter is ");
+    let displayNamesList = document.getElementById("displayNamesList");
 
     let timer = document.getElementById("timer");
     timer.style.display = "flex";
@@ -22,6 +23,7 @@ function timerCounter() {
                 timer.style.backgroundColor = "#30b756";
                 counter.innerText = "בהצלחה";
                 timer.style.display = "none";
+                displayNamesList.style.display = "none";
 
                 setTimeout(() => {
                 timer.classList.add("fadeOut");

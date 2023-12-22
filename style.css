@@ -16,7 +16,7 @@ HEADER
 .header {
     overflow: hidden;
     background-color: #fff;
-    padding: 20px 10px;
+    padding: 50px 20px;
     margin-bottom: 100px;
   }
   
@@ -32,10 +32,10 @@ HEADER
   }
   
   .logo {
-    width: 50vw;
     left: 29px;
     position: absolute;
-    width: 30%;
+    width: 40%;
+
 }
   
   .header a:hover {

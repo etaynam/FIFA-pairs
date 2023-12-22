@@ -295,6 +295,7 @@ body {
 
 div#timer {
     width: 100vw;
+    font-weight: 800;
     height: 100vh;
     z-index: 5;
     position: absolute;
@@ -302,7 +303,7 @@ div#timer {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 10rem;
+    font-size: 14rem;
     color: #fff;
 }
 
@@ -326,12 +327,12 @@ div#timer {
     margin: 0px;
     }
     input#nameInput {
-        font-size: 3rem;
+        font-size: 4rem;
         outline: none !important;  
     }
 
     div#ResetAndMakeBtebs {
-        position: absolute;
+        position: static;
         bottom: 20px;
     }
 

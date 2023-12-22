@@ -140,10 +140,7 @@ function updatePairsList(pairs) {
 
 
 function resetNames() {
-    names = [];
-    updateNameList();
-    document.getElementById('pairsList').innerHTML = '';
-    let PlayersSection = document.getElementById('PlayersSection').style.display = 'none';
+    location.reload(true);
 }
 
 let currentEditIndex = -1;

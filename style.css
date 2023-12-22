@@ -169,6 +169,7 @@ li {
 
 li.list-group-item {
     display: flex;
+    text-align: center;
     flex-direction: column;
     justify-content: center;
     align-content: center;

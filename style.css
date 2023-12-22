@@ -64,6 +64,7 @@ HEADER
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin: 0px 20px;
 }
 h2 {
     font-family: 'Arimo', sans-serif;
@@ -305,6 +306,10 @@ body {
 
     li {
         font-size: 3rem;
+        min-width: 140px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     span#EditPlayerIcon {

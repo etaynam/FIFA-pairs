@@ -3,6 +3,36 @@ let MakePairs = document.getElementById('MakePairs');
 
 let groups = [];
 
+
+function timerCounter() {
+
+    console.log("timerCounter is ");
+
+    let timer = document.getElementById("timer");
+    timer.style.display = "flex";
+    let counter = document.getElementById("counter");
+    
+    for (let i = 3; i > 0; i--) {
+        let timeCounting = 3
+        setInterval(() => {
+            if (timeCounting > 1) {
+            timeCounting--
+            counter.innerText = timeCounting;
+            } else {
+                timer.style.backgroundColor = "#30b756";
+                counter.innerText = "בהצלחה";
+
+                setTimeout(() => {
+                timer.classList.add("fadeOut");
+                },1000);
+            }
+            
+        },800);
+    
+    }
+   
+}
+
 // טעינת הנתונים מהקובץ JSON
 fetch('groups.json')
     .then(response => response.json())
@@ -48,6 +78,8 @@ function pairNames() {
     if (names.length < 3) {
 
         setTimeout(() => {
+
+            
             const box = document.getElementById('box').style.display = "flex";
           
             // 👇️ removes element from DOM
@@ -59,6 +91,8 @@ function pairNames() {
 
           setTimeout(() => {
             const box = document.getElementById('box').style.display = "none";
+
+            
           
             // 👇️ removes element from DOM
             box.style.display = 'none';
@@ -68,6 +102,7 @@ function pairNames() {
           },3000); // 👈️ time in milliseconds
          
     } else {
+        timerCounter();
         const box = document.getElementById('box').style.display = "none";
         MakePairs.innerText = "ערבב שוב"
         let pairs = [];

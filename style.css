@@ -8,6 +8,8 @@
 
 
 
+
+
 /*
 עיצוב החלק העליון של האתר
 HEADER
@@ -290,6 +292,33 @@ body {
     background-color: blue; /* This will be applied by default */
     margin: 0px;
 }
+
+div#timer {
+    width: 100vw;
+    height: 100vh;
+    z-index: 5;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    color: #fff;
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
+
+#timer.fadeOut {
+    animation: fadeOut 0.5s forwards; /* נניח שהאנימציה נמשכת 2 שניות */
+}
+
+#timer {
+    font-family: 'Arimo', sans-serif;
+    }
+
 
 @media only screen and (max-width: 1400px) {
     body {

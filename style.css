@@ -33,8 +33,9 @@ HEADER
   
   .logo {
     width: 50vw;
-    position: fixed;
     left: 29px;
+    position: absolute;
+    width: 30%;
 }
   
   .header a:hover {
@@ -157,6 +158,10 @@ li {
     border-radius: 5px;
     margin: 2px;
     color: #565656;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
 }
 
@@ -283,11 +288,13 @@ div#box {
 
 body {
     background-color: blue; /* This will be applied by default */
+    margin: 0px;
 }
 
 @media only screen and (max-width: 1400px) {
     body {
         background-color: #eeeeee; /* This will be applied on screens 300px wide or smaller */
+    margin: 0px;
     }
     input#nameInput {
         font-size: 3rem;

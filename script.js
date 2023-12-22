@@ -21,6 +21,7 @@ function timerCounter() {
             } else {
                 timer.style.backgroundColor = "#30b756";
                 counter.innerText = "בהצלחה";
+                timer.style.display = "none";
 
                 setTimeout(() => {
                 timer.classList.add("fadeOut");

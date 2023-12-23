@@ -117,16 +117,20 @@ button {
 
 .editPlayerBtn {
     cursor: pointer;
-    background-color: #ffe6e6;
-    color: white;
-    border-radius: 100px;
+    color: #fff;
+    background: rgb(255,135,135);
+    background: linear-gradient(146deg, rgba(255,135,135,1) 0%, rgba(225,6,6,1) 48%, rgba(255,60,0,1) 100%);
+    border-radius: 3px;
     font-size: 10px;
+    position: absolute;
+    left: 0px;
+    padding: 2px;
 }
 
 span#EditPlayerIcon {
     font-size: 12px;
     padding: 1px;
-    color: rgb(214, 42, 42);
+    color: #fff;
 }
 
 #addName {
@@ -160,11 +164,10 @@ li {
     background-color: #fff;
     border-radius: 5px;
     margin: 2px;
-    color: #565656;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    position: relative;
 
 }
 
@@ -191,6 +194,7 @@ margin: 10px;
 
 span.material-symbols-outlined {
     font-size: 2rem;
+    color: #fff;
 }
 
 #editNameInput {
@@ -292,9 +296,9 @@ div#box {
 }
 
 body {
-    background: rgb(63,94,251);
-    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(7,11,30,1) 100%);    margin: 0px;
-}
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    }
 
 div#timer {
     width: 100vw;
@@ -326,9 +330,9 @@ div#timer {
 
 @media only screen and (max-width: 1400px) {
     body {
-        background: rgb(63,94,251);
-        background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(7,11,30,1) 100%);    margin: 0px;
-    }
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+            }
     input#nameInput {
         font-size: 4rem;
         outline: none !important;  
@@ -346,10 +350,11 @@ div#timer {
 
     li {
         font-size: 3rem;
-        min-width: 140px;
+        width: 320px;
         display: flex;
         justify-content: center;
         align-items: center;
+        position: relative;
     }
 
     span#EditPlayerIcon {

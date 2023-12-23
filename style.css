@@ -292,8 +292,8 @@ div#box {
 }
 
 body {
-    background-color: blue; /* This will be applied by default */
-    margin: 0px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(7,11,30,1) 100%);    margin: 0px;
 }
 
 div#timer {
@@ -326,8 +326,8 @@ div#timer {
 
 @media only screen and (max-width: 1400px) {
     body {
-        background-color: #eeeeee; /* This will be applied on screens 300px wide or smaller */
-    margin: 0px;
+        background: rgb(63,94,251);
+        background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(7,11,30,1) 100%);    margin: 0px;
     }
     input#nameInput {
         font-size: 4rem;

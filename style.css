@@ -177,8 +177,7 @@ li.list-group-item {
     padding: 27px;
     border-radius: 17px;
     align-items: center;
-    min-width: 120px;
-}
+    width: 350px;}
 
 div#displayNamesList {
     display: flex;
@@ -258,7 +257,9 @@ input#nameInput {
 
 ul#pairsList {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 350px 350px;
+    row-gap: 10px;
+    column-gap: 10px;
 }
 
 footer {
